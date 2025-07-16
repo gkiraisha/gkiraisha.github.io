@@ -14,3 +14,14 @@ body {
 section {
   padding-top: 5rem;
 }
+
+#contact svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-bottom: -1px; /* hilangkan celah putih antara wave & footer */
+}
+
+footer {
+  background-color: #0d6efd; /* Pastikan sama dengan warna wave terakhir */
+}
